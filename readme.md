@@ -8,3 +8,6 @@
 ```
 4. 使用 HM NIS EDIT 创建打包脚本并构建 地址： https://hmne.sourceforge.net
 5. 参考：https://www.bilibili.com/read/cv14523427?spm_id_from=333.999.0.0
+6. 启动时需添加jvm 参数
+```java
+--module-path="E:\workspace\javafx-sdk-17.0.8\lib" --add-modules=javafx.controls,javafx.fxml
