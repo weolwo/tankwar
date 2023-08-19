@@ -1,0 +1,3 @@
+坦克大战
+打包命令
+jpackage -t app-image -n tank -p . -m com.owen/com.owen.Main --app-version 1.0
